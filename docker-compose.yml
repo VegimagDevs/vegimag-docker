@@ -1,0 +1,7 @@
+version: '3'
+services:
+  frontend:
+    image: vegimag/vegimag-frontend:latest
+    ports:
+      - "3212:80"
+
