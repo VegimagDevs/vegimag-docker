@@ -1,0 +1,6 @@
+[submodule "vegimag-frontend"]
+	path = vegimag-frontend
+	url = https://github.com/VegimagDevs/vegimag-frontend
+[submodule "vegimag-api"]
+	path = vegimag-api
+	url = https://github.com/VegimagDevs/vegimag-api
